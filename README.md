@@ -1,3 +1,3 @@
 # PowerBI
 
-Power BI samples. Check out thereadme of each repository for specific instructions.
+Power BI samples. Check out the readme of each repository for specific instructions.
