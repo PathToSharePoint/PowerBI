@@ -20,11 +20,11 @@ https://api.twitter.com/2/tweets/search/recent
 - NoiseLevel: tweets with too many hashtags will be discarded, as they are often used by spammers. Having up to 5-6 hashtags in a regular tweet is not uncommon, so it is suggested to set NoiseLevel to a number between 8 and 12.
 - BearerToken: used to authenticate you to the Twitter service, this is the token Twitter will provide when you register for a developer account. It is of the form "Bearer xxxxxxxxxxxxxxxxxxxxxxx".
 
-## Hashtag list
+## Hashtags table
 
-The template comes with more than 20 common hashtags related to Microsoft 365. You can customize the list for your own needs, actually the hashtags don't even have to be related to Microsoft 365.
+The template comes with more than 20 common hashtags related to Microsoft 365. You can customize the table for your own needs, the hashtags don't even have to be related to Microsoft 365.
 
-To update the hashtag list:
+To update the hashtags table:
 
 - open the report
 - click on Transform Data to open the Power Query Editor
@@ -33,3 +33,5 @@ To update the hashtag list:
 - modify the table as needed
 - save the table
 - close the Power Query Editor
+
+![Edit Power Query Table](https://github.com/PathToSharePoint/PowerBI/blob/main/Twitter/Edit%20Power%20Query%20Table.png)
