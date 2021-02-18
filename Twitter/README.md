@@ -2,7 +2,9 @@
 
 ## About this solution
 
-This Power BI report allows you to track recent Twitter conversations related to Microsoft 365.
+This Power BI report allows you to track recent Twitter conversations related to Microsoft 365. 
+
+For a demo, open the report for the [week of February 13, 2021](https://app.powerbi.com/view?r=eyJrIjoiZmIyMDViOGEtMzZmMS00ZTIwLTllOGMtNjE2YmQ3ZmNiN2QxIiwidCI6ImFkNWMwYjhiLWUyYWQtNGU0Yy04MGRmLTFmYjNlMzU0NTc2ZiIsImMiOjZ9)
 
 ## Prerequisite
 
